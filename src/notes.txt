@@ -1,0 +1,18 @@
+react redux actions
+
+1. change current state in application
+2. packet of information which is passed to store
+3.actions are plain js objects 
+
+exaple add user on form submit
+
+payload is the informatino or daya for actions
+{
+    'type':'ADD_USER',
+    'payload':{
+        'name':'raj',
+        'email':'raj@gmail.com'
+    }
+}
+
+Action ---> dispatch -----> store

@@ -1,0 +1,37 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"samsung m40",
+            "price":15000,
+            "category":"mobile",
+            "brand":"Samsung",
+            "photo":"https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m40-m405f.jpg"
+        },
+        {
+
+            "id":2,
+            "name":"tshirt",
+            "price":15000,
+            "category":"mobile",
+            "brand":"Samsung",
+            "photo":"https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m40-m405f.jpg"
+        },
+        {
+            "id":3,
+            "name":"sports shoes",
+            "price":15000,
+            "category":"mobile",
+            "brand":"Samsung",
+            "photo":"https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m40-m405f.jpg"
+        },
+        {
+            "id":4,
+            "name":"shirt",
+            "price":15000,
+            "category":"mobile",
+            "brand":"Samsung",
+            "photo":"https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-m40-m405f.jpg"
+        }
+    ]
+}
